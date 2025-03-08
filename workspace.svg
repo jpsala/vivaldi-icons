@@ -1,0 +1,12 @@
+<svg width="32px" height="32px" viewBox="-4 -4 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+  <g id="SVGRepo_iconCarrier">
+    <!-- Main rectangle (first workspace) -->
+    <path d="M3 8C3 5.79086 4.79086 4 7 4H17C19.2091 4 21 5.79086 21 8V12C21 14.2091 19.2091 16 17 16H7C4.79086 16 3 14.2091 3 12V8Z" stroke="white" stroke-width="1.5"/>
+    <!-- Second rectangle (second workspace) offset -->
+    <path opacity="0.7" d="M6 12C6 9.79086 7.79086 8 10 8H20C22.2091 8 24 9.79086 24 12V16C24 18.2091 22.2091 20 20 20H10C7.79086 20 6 18.2091 6 16V12Z" stroke="white" stroke-width="1.5"/>
+    <!-- Arrow indicating movement/switching -->
+    <path d="M13 8L16 5L19 8" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg> 
